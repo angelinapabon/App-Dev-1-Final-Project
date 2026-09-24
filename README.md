@@ -1,4 +1,4 @@
-# App-Dev-2-Final-Project
+# App-Dev-1-Final-Project
 
 ## Project: Movie Watchlist API
 The Movie Watchlist API is a RESTful backend application that allows users to create, manage, and organize their own movie watchlists.
